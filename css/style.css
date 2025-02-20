@@ -38,6 +38,18 @@ li {
   margin: 0;
   padding: 0;
 }
+.wrapper{
+ margin: 3em auto;
+ padding: 3em;
+ width: 50%;
+ border: #aaa solid 2px;
+}
+
+.task-link{
+
+}
+
+
 #categories {
   margin-top: 2em;
 }
